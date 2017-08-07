@@ -1,0 +1,17 @@
+{
+    "name": "josephmtinangi/generate-pdf-from-html-css",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Mtinangi",
+            "email": "josephmtinangi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mtinangi\\": "app/Mtinangi"
+        }
+    },
+    "require": {}
+}
