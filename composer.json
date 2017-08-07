@@ -13,5 +13,7 @@
             "Mtinangi\\": "app/Mtinangi"
         }
     },
-    "require": {}
+    "require": {
+        "twig/twig": "^1.34"
+    }
 }
